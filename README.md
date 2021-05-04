@@ -1,4 +1,5 @@
 ## *hashcat* ##
+![immagine](https://user-images.githubusercontent.com/56889513/117020427-b85d8100-acf6-11eb-81e3-a1b8d3ee4bc5.png)
 
 **hashcat** is the world's fastest and most advanced password recovery utility, supporting five unique modes of attack for over 200 highly-optimized hashing algorithms. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS, and has facilities to help enable distributed password cracking.
 
